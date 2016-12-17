@@ -9,5 +9,6 @@ namespace Day2Homework
 
     class Class1
     {
+
     }
 }
